@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HackerNews</string>
+    <string name="HackerNews">Laboratorio8</string>
+    <string name="keyword">Palabra Clave</string>
+    <string name="author">Autor</string>
+    <string name="minimun_points">Puntos mínimos</string>
+    <string name="search">Buscar</string>
+</resources>
